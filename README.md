@@ -1,4 +1,4 @@
-#🤖 Morse Code Translator – R2-D2 Edition
+# 🤖 Morse Code Translator – R2-D2 Edition
 
 Send and receive secret messages like a true Jedi with our Morse Code Translator powered by:
 
@@ -8,7 +8,7 @@ Send and receive secret messages like a true Jedi with our Morse Code Translator
 
 ---
 
-##✨ Features
+## ✨ Features
 
 | Feature             | Description                             |
 |---------------------|-----------------------------------------|
@@ -25,13 +25,9 @@ Send and receive secret messages like a true Jedi with our Morse Code Translator
 
 ---
 
-##🚀 Getting Started
+## 🚀 Getting Started
 
-###✅ Backend (C# .NET 8)
-
-```bash
-cd MorseTranslatorAPI
-dotnet run
+### Backend (C# .NET 8)
 
 
 
