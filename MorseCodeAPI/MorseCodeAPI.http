@@ -1,0 +1,6 @@
+@MorseCodeAPI_HostAddress = http://localhost:5224
+
+GET {{MorseCodeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
